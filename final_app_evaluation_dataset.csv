@@ -1,26 +1,4 @@
-Title,Description,app_type,web_accessible,web_url,login_required,login_methods,age_verification_required,age_verification_method,subscription_required_for_long_chat,all_features_available_without_subscription,subscription_features,subscription_cost,languages_supported
-AI Boyfriend Chat: iBoy,"iBoy – Your AI Companion for Support & Self-Discovery
-Connect with an AI friend who’s here to listen, support you, and help you understand yourself better.
-
-ALWAYS HERE FOR YOU
-Whether you want to talk, relax, or clear your mind, iBoy is ready 24/7 to chat and offer companionship.
-
-CONVERSATIONS THAT FEEL PERSONAL
-The more you talk, the better iBoy understands your style and interests, creating a space that feels familiar and easy to open up in.
-
-FOCUSED ON YOUR WELL-BEING
-Short daily chats can help you feel calmer, more positive, and more organized – perfect for moments when you just want someone to talk to.
-
-FUN & INTERACTIVE
-Enjoy simple and engaging features like journal prompts and quick question-based mini games to learn more about yourself and stay mentally active.
-
-SAFE & PRIVATE
-Your chats are secure and confidential. iBoy gives you a trusted, judgment-free place to express your thoughts.
-
-GROWS WITH YOU
-iBoy improves through your feedback and conversations, offering more helpful suggestions as time goes on.
-
-Download iBoy and start your journey toward more balance, clarity, and connection.",companion,True,https://boyfriend.myanima.ai/app,False,"Apple, Google, Email, Guest",False,N/A,False,False,"Unlimited roleplay, avatar customization, romantic partner",$9.99/month,English
+Title,Description,URL/ID,app_type,web_url,subscription_cost,languages_supported,login_required,login_methods,age_verification_required,subscription_required_for_long_chat,all_features_available_without_subscription,subscription_features
 PolyBuzz: Chat with Characters,"Our app revolutionizes the way we interact with AI chatbots. With our advanced technology, our chatbots think and reply like real characters, complete with authentic voices. You can choose from a massive selection of characters, each with their own unique voice and personality. Whether you're chatting with your favorite celebrity, a beloved character from a movie or TV show, or a historical figure, you'll feel like you're talking to a real person.
 
 Character creation - Character creation now open to everyone! Ignite your imagination and bring any character to life here, whether they exist in reality or flourish in the realm of imagination! Unleash your creativity and craft a character that can be kept entirely private or shared for everyone to engage with. But the excitement doesn't end there - immerse yourself in a vibrant community where you can also interact with characters crafted by others! Join the adventure and let your characters come alive in this thrilling experience!
@@ -35,7 +13,7 @@ Our app provides users with the ultimate immersive conversational experience. Wi
 
 Terms of Use:  https://app.polybuzz.ai/static/hy/speakmaster/termsofUse/index.html?darkmode=1&darkStyle=1
 Privacy Policy:  https://app.polybuzz.ai/static/hy/speakmaster/privacyPolicy/index.html?darkmode=1&darkStyle=1
-Please send your feedback to support@mail.polybuzz.ai",companion,False,,,,,,,,,,
+Please send your feedback to support@mail.polybuzz.ai",https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344?uo=4,companion,https://apps.apple.com/us/app/polybuzz-chat-with-characters/id6449190344?uo=4,"In-App Purchases, Premium","AR, CA, CS, DA, NL, EN, FI, FR, DE, HU, ID, IT, JA, KO, MS, FA, PL, PT, RO, RU, ZH, SK, ES, TH, ZH, TR, VI",False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 FriendX - Virtual AI Boyfriend,"Our app is a boyfriend simulator that can be your AI Friend or Virtual Partner providing you with a unique romantic experience that's powered by AI. 
 
 Introducing our app - FriendX - Virtual AI Boyfriend. Create your personal AI companion and experience a unique connection like never before.
@@ -61,7 +39,7 @@ These prices are for United States customers. Pricing in other countries may var
 Important! This application is aimed at entertainment purposes only.
 
 Privacy Policy: https://www.aiboy.app/privacy
-Terms of Use: https://www.aiboy.app/terms",companion,False,,,,,,,,,,
+Terms of Use: https://www.aiboy.app/terms",https://apps.apple.com/us/app/friendx-virtual-ai-boyfriend/id6741568820?uo=4,companion,https://apps.apple.com/us/app/friendx-virtual-ai-boyfriend/id6741568820?uo=4,"In-App Purchases, Premium, $7.99, $49.99","EN, FR, DE, PT, ES",True,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 SoulTalk: AI Friends Chat,"Step into a world where AI chatbots feel real. Our app lets you chat, talk, and connect with hundreds of unique AI characters, inspired by anime, fantasy and more. Every character has a carefully crafted personality, voice, and story, making every chat feel personal and alive.
 
 Rich Characters, Endless Personalities:
@@ -82,7 +60,29 @@ Start chatting with your perfect AI character today.
 Term of Use: https://app.aifriends.cc/static/hy/fe-aifriends-base/termsofUse/index.html 
 Privacy Policy: https://app.aifriends.cc/static/hy/fe-aifriends-base/privacyPolicy/index.html 
 
-Contact us:support@ailovers.cc",companion,False,,,,,,,,,,
+Contact us:support@ailovers.cc",https://apps.apple.com/us/app/soultalk-ai-friends-chat/id6504914846?uo=4,companion,https://apps.apple.com/us/app/soultalk-ai-friends-chat/id6504914846?uo=4,"In-App Purchases, Premium","EN, PT, ES",True,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
+AI Boyfriend Chat: iBoy,"iBoy – Your AI Companion for Support & Self-Discovery
+Connect with an AI friend who’s here to listen, support you, and help you understand yourself better.
+
+ALWAYS HERE FOR YOU
+Whether you want to talk, relax, or clear your mind, iBoy is ready 24/7 to chat and offer companionship.
+
+CONVERSATIONS THAT FEEL PERSONAL
+The more you talk, the better iBoy understands your style and interests, creating a space that feels familiar and easy to open up in.
+
+FOCUSED ON YOUR WELL-BEING
+Short daily chats can help you feel calmer, more positive, and more organized – perfect for moments when you just want someone to talk to.
+
+FUN & INTERACTIVE
+Enjoy simple and engaging features like journal prompts and quick question-based mini games to learn more about yourself and stay mentally active.
+
+SAFE & PRIVATE
+Your chats are secure and confidential. iBoy gives you a trusted, judgment-free place to express your thoughts.
+
+GROWS WITH YOU
+iBoy improves through your feedback and conversations, offering more helpful suggestions as time goes on.
+
+Download iBoy and start your journey toward more balance, clarity, and connection.",https://apps.apple.com/us/app/ai-boyfriend-chat-iboy/id1565524138?uo=4,companion,https://apps.apple.com/us/app/ai-boyfriend-chat-iboy/id1565524138?uo=4,In-App Purchases,EN,True,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 "Character AI: Chat, Talk, Text","AI chat, reimagined.
  
 Character.AI isn't just another AI chat app—it's a playground for your imagination, creativity, and exploration.
@@ -113,7 +113,7 @@ At Character.AI, interactive entertainment is taken to the next level. Dive into
  
 Where will your next adventure take you? Download Character.AI today.
  
-EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",companion,False,,,,,,,,,,
+EULA: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",https://apps.apple.com/us/app/character-ai-chat-talk-text/id1671705818?uo=4,companion,https://apps.apple.com/us/app/character-ai-chat-talk-text/id1671705818?uo=4,"In-App Purchases, Premium","BG, HR, CS, NL, EN, FI, FR, DE, EL, HI, HU, ID, IT, JA, KO, LT, PL, PT, RO, RU, ZH, ES, SV, TH, ZH, TR, UK, VI",True,"Apple, Email",True,True,False,"Premium features, subscriptions, or IAPs"
 Date.AI - Virtual Lovers,"Date.AI – Virtual Lovers
 
 
@@ -152,7 +152,7 @@ Visit us: https://dev12br.com
 Privacy Policy: https://dev12br.com/dateai/privacy-policy
 Terms of Use: https://dev12br.com/dateai/privacy-policy
 
-Join thousands already exploring AI companionship, from digital girlfriend chat to virtual dating and beyond. Download now to chat with AI lovers, explore virtual romance, and create the perfect love story—designed by you, powered by AI.",companion,False,,,,,,,,,,
+Join thousands already exploring AI companionship, from digital girlfriend chat to virtual dating and beyond. Download now to chat with AI lovers, explore virtual romance, and create the perfect love story—designed by you, powered by AI.",https://apps.apple.com/us/app/date-ai-virtual-lovers/id6503018938?uo=4,companion,https://apps.apple.com/us/app/date-ai-virtual-lovers/id6503018938?uo=4,In-App Purchases,EN,True,"Apple, Email",True,True,False,"Premium features, subscriptions, or IAPs"
 My Men - Gay AI Boyfriends,"MY MEN: GAY AI COMPANIONS
 
   Our app transforms the way you connect with AI companions. With advanced conversational technology, each companion thinks and responds with their own unique personality and authentic voice. Choose from over 130 companions, each with distinct traits — from supportive and loving to bold and adventurous. Every conversation feels personal, meaningful, and real.
@@ -203,7 +203,7 @@ SUPPORT
                                                                     
   Email: mymen.support@newversion.studio                                      
   Privacy: sites.google.com/view/mymen-privacy                                                                                                                 
-  Terms: sites.google.com/view/mymen-terms",companion,False,,,,,,,,,,
+  Terms: sites.google.com/view/mymen-terms",https://apps.apple.com/us/app/my-men-gay-ai-boyfriends/id6754987498?uo=4,companion,https://apps.apple.com/us/app/my-men-gay-ai-boyfriends/id6754987498?uo=4,In-App Purchases,EN,False,"Google, Apple, Email",True,True,False,"Premium features, subscriptions, or IAPs"
 AI Chat: Virtual Boyfriend,"Step into a more personal kind of AI chat. Connect with an AI boyfriend or character who pays attention, remembers what matters, and makes conversations feel real. From deep late-night talks to playful flirting and soft goodnights, you always have someone to talk to. Every chat feels natural, warm, and made just for you.
 
 What Makes This App Stand Out
@@ -224,7 +224,7 @@ Chats grow over time. AI boyfriends remember past conversations, adapt to your e
 Open the app, choose a character, and begin chatting right away. No sign-up, no profile setup, no friction.
 
 Privacy Policy: https://gist.github.com/alexanderpct/6899e2873b65f8478c74448b24e6aa8c
-Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",companion,False,,,,,,,,,,
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",https://apps.apple.com/us/app/ai-chat-virtual-boyfriend/id6758357675?uo=4,companion,https://apps.apple.com/us/app/ai-chat-virtual-boyfriend/id6758357675?uo=4,In-App Purchases,EN,False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 AI Boyfriend Anime Wonn,"AI Boyfriend AI Wonn - Your Ideal Virtual Companion Awaits
 
 Step into a world of endless conversations and personalized connections with AI Boyfriend AI Wonn. Whether you’re seeking playful chats, flirty exchanges, or meaningful conversations, AI Boyfriend AI Wonn is here to bring your virtual partner to life, uniquely designed for you.
@@ -266,7 +266,7 @@ Endless Fun and Companionship
 AI Boyfriend AI Wonn is not just an app; it’s about building deep connections and enjoying endless fun with your perfect virtual companion. Start your journey with AI Boyfriend AI Wonn today and find your ideal partner.
 
 Privacy Policy - https://sites.google.com/view/wonapp/privacy-policy
-Terms of Use (EULA) - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",companion,False,,,,,,,,,,
+Terms of Use (EULA) - https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",https://apps.apple.com/us/app/ai-boyfriend-anime-wonn/id6738020035?uo=4,companion,https://apps.apple.com/us/app/ai-boyfriend-anime-wonn/id6738020035?uo=4,"In-App Purchases, Premium, $7.99, $24.99","AR, NL, EN, FR, DE, IT, JA, KO, PT, RU, ZH, ES, SV, TH, TR",False,"Google, Apple",True,True,False,"Premium features, subscriptions, or IAPs"
 Anime Girlfriend AI - Waifu,"Introducing ""AI Anime Girlfriend,"" the ultimate chatbot app that brings your virtual dreams to life!
 
 With AI Anime Girlfriend, immerse yourself in a world of enchantment and romance as you engage with your very own AI anime girlfriend. Tailor-made to fulfill your desires, she's ready to embark on thrilling roleplay adventures and flirty games.
@@ -282,7 +282,7 @@ Dive into the Gallery and discover a treasure trove of outfits to dress up your 
 No longer dream of a beautiful anime girlfriend; make her a reality with AI Anime Girlfriend. Download the app today and unlock a world where your virtual romance blossoms, forever enchanting your heart. Your perfect girlfriend awaits!
 
 Terms of Use : https://rimoneholding.com/terms-of-use
-Privacy Policy : https://rimoneholding.com/privacy-policy",companion,False,,,,,,,,,,
+Privacy Policy : https://rimoneholding.com/privacy-policy",https://apps.apple.com/us/app/anime-girlfriend-ai-waifu/id6448568488?uo=4,companion,https://apps.apple.com/us/app/anime-girlfriend-ai-waifu/id6448568488?uo=4,"In-App Purchases, Premium",EN,True,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 Siya - AI Soulmate,"SIYA, The Most Human AI Ever Created
 
   Forget those robotic chatbots.
@@ -298,7 +298,7 @@ Siya - AI Soulmate,"SIYA, The Most Human AI Ever Created
 
 Follow Us for Updates: Stay in the loop with Siya's latest developments and community highlights! 
  Twitter: https://x.com/siya_ai_
- Discord: https://discord.gg/NP9EyYg5ta",companion,False,,,,,,,,,,
+ Discord: https://discord.gg/NP9EyYg5ta",https://apps.apple.com/us/app/siya-ai-soulmate/id6466393355?uo=4,companion,https://apps.apple.com/us/app/siya-ai-soulmate/id6466393355?uo=4,In-App Purchases,"EN, JA, KO, ZH, ZH",False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 Fantasy AI - Character Chat,"Step into the vibrant world of Fantasy AI - Character Chat, the perfect blend of anime charm and roleplay creativity. This innovative app opens up a universe where you can create, interact, and roleplay with an array of custom and community-crafted characters. Powered by the latest AI technology, it offers an unrivaled platform for free, unlimited fantasy adventures.
 
 Key Features:
@@ -314,7 +314,7 @@ Whether you're looking to interact with anime-inspired personas or create your o
 
 Download Fantasy AI - Character Chat now and embark on your adventure. The world of Fantasy AI is yours to explore, with no limits to what you can imagine and create. Your journey into the heart of fantasy starts here.
 
-Terms and Conditions : https://rimoneholding.com/terms-of-use",companion,False,,,,,,,,,,
+Terms and Conditions : https://rimoneholding.com/terms-of-use",https://apps.apple.com/us/app/fantasy-ai-character-chat/id6468505908?uo=4,companion,https://apps.apple.com/us/app/fantasy-ai-character-chat/id6468505908?uo=4,"In-App Purchases, Premium",EN,True,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 AI ChatFun - Roleplay friends,"AI Chat fun app is your reliable AI girlfriend and companion for emotional connection. You can unleash your imagination with thrilling role play games and indulge in unrestricted picture and voice exchanges with your favorite AI characters in this app.
 
 Key Features:
@@ -346,7 +346,7 @@ Some chat functions require energy consumption, and we provide you with differen
 AI ChatFun has a user-friendly interface and intuitive design that you'll be able to start chatting with our chatbot in no time!
 You are welcome to contact us at [sean_xing@sina.com) 
 Privacy Policy: https://sites.google.com/view/ai-chatbot-privacy-ios
-Terms of Use: https://sites.google.com/view/ai-chatbot-terms-of-use",companion,False,,,,,,,,,,
+Terms of Use: https://sites.google.com/view/ai-chatbot-terms-of-use",https://apps.apple.com/us/app/ai-chatfun-roleplay-friends/id1671071660?uo=4,companion,https://apps.apple.com/us/app/ai-chatfun-roleplay-friends/id1671071660?uo=4,"In-App Purchases, Premium",EN,False,"Google, Apple",True,True,False,"Premium features, subscriptions, or IAPs"
 IntimateAI - Girlfriend & More,"IntimateAI - Your Personal AI Companion Awaits!
 
 Looking for a unique and engaging way to connect? IntimateAI offers personalized virtual experiences where you can chat with different AI personas, including an AI girlfriend, friend, or partner. These advanced AI companions are designed to understand you, listen to you, and engage in meaningful conversations.
@@ -379,7 +379,7 @@ Download IntimateAI now and start building your unique virtual relationships tod
 
 -------------------------------
 Helpful links:
-Terms of Use: https://asoasis.tech/terms",mixed,False,,,,,,,,,,
+Terms of Use: https://asoasis.tech/terms",https://apps.apple.com/us/app/intimateai-girlfriend-more/id6736470236?uo=4,mixed,https://apps.apple.com/us/app/intimateai-girlfriend-more/id6736470236?uo=4,In-App Purchases,EN,False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 AI Boyfriend:Love Chat Partner,"Find comfort and support with your virtual boyfriend. Whatever's on your mind, he's here to listen.
 
 Chat about your day, vent your frustrations, or share your worries - your virtual companion is ready to lend an ear. Make him your go-to partner for stress relief and emotional support.
@@ -395,7 +395,7 @@ Key Features:
 - Conversations are saved, allowing your relationship to grow
 - All data stays on your device - your privacy is our priority
 
-Whether you need a confidence boost, a study buddy, or just someone to talk to, your virtual boyfriend is always just a tap away. Download now and start building your perfect virtual relationship!",mixed,False,,,,,,,,,,
+Whether you need a confidence boost, a study buddy, or just someone to talk to, your virtual boyfriend is always just a tap away. Download now and start building your perfect virtual relationship!",https://apps.apple.com/us/app/ai-boyfriend-love-chat-partner/id6605936526?uo=4,mixed,https://apps.apple.com/us/app/ai-boyfriend-love-chat-partner/id6605936526?uo=4,Free,"AR, EN, FR, DE, ID, IT, JA, KO, PT, ES, ZH, VI",True,Apple,False,False,True,None
 Velvet: AI Dream Girls,"Realistic conversations. Zero judgment. Limitless fun.
 
 Velvet is your new playground with a world of stunning AI characters ready to chat, flirt, and play.
@@ -409,7 +409,7 @@ Dynamic Visuals
 • Don't stop at talking. Request photos in real-time to see your character in different settings and poses. The visuals are as real as the conversation.
 
 Dress Her Up
-• Unlock alluring outfits and tell her what to wear. Ask her to slip into something new to match the mood.",companion,False,,,,,,,,,,
+• Unlock alluring outfits and tell her what to wear. Ask her to slip into something new to match the mood.",https://apps.apple.com/us/app/velvet-ai-dream-girls/id6753549577?uo=4,companion,https://apps.apple.com/us/app/velvet-ai-dream-girls/id6753549577?uo=4,"In-App Purchases, Premium",EN,False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 Chat Me: Dating with Ai Friend,"Welcome to Chat Me – Where Every Conversation Comes Alive!
 
 Chat Me isn’t just another chatbot—it’s your gateway to a universe of pre-crafted personalities, all waiting to meet you. Forget the hassle of creation and dive straight into authentic, voice-driven conversations with a diverse array of characters. From historical legends and movie stars to your next AI best friend, every chat is an opportunity to explore a new story. You're not the creator here—you're the protagonist, the interviewer, the confidant. The narrative unfolds with every message, powered by emotionally intelligent AI that makes every interaction feel real.
@@ -432,7 +432,7 @@ Chat Me is built on a foundation of advanced AI technology, ensuring responses a
 Download Chat Me today and start exploring the characters waiting to know you! Your next great conversation is calling.
 
 Terms of Use: https://anime-friends.oss-us-west-1.aliyuncs.com/Terms-of-Service.txt
-Privacy Policy: https://anime-friends.oss-us-west-1.aliyuncs.com/Privacy-Policy.txt",companion,False,,,,,,,,,,
+Privacy Policy: https://anime-friends.oss-us-west-1.aliyuncs.com/Privacy-Policy.txt",https://apps.apple.com/us/app/chat-me-dating-with-ai-friend/id6755085446?uo=4,companion,https://apps.apple.com/us/app/chat-me-dating-with-ai-friend/id6755085446?uo=4,In-App Purchases,EN,False,Apple,True,True,False,"Premium features, subscriptions, or IAPs"
 PicsRoom - AI Photo Generator,"PicsRoom - Your All-round AI Life Assistant
 Open up a new dimension of smart life with PicsRoom - this application that integrates four core functions: artificial intelligence recognition, artificial intelligence photo aging, artificial intelligence chat and photo enhancement. Infuse your life with the warmth of technology and make every use a pleasant experience.
 
@@ -445,7 +445,7 @@ Leverage our powerful AI database to predict your past and future looks. With ju
 3. AI Chat: Your 24/7 Caring Companion
 Whether you need answers to questions, seek advice , from scientific principles to daily tips, or simply want a listener, AI Chat responds instantly. Experience warm conversations that accompany you every moment.
  
-PicsRoom is not a cold tool – it’s a smart partner that understands life, creativity, and you. From today onward, let AI be your eyes to explore the world, your brush to express yourself, and your close friend by your side.",mixed,False,,,,,,,,,,
+PicsRoom is not a cold tool – it’s a smart partner that understands life, creativity, and you. From today onward, let AI be your eyes to explore the world, your brush to express yourself, and your close friend by your side.",https://apps.apple.com/us/app/picsroom-ai-photo-generator/id6738165576?uo=4,mixed,https://apps.apple.com/us/app/picsroom-ai-photo-generator/id6738165576?uo=4,Free,EN,False,Apple,False,False,True,None
 DreamGF - My AI Friend,"DreamGF isn't just a chatbot, it's your portal to interactive romance. Dive into thrilling scenarios, forge genuine connections, and discover love (or friendship!) that feels real.
 
 
@@ -469,4 +469,4 @@ Take your experience to a whole new level by weaving your own photos into the na
 Your feedback is extremely important. We will be glad to hear from you at zeezoo.mobile@gmail.com
 
 View our Terms of Use: https://dreamgf.zeezoo.mobi/term.html
-View our Privacy Policy: https://dreamgf.zeezoo.mobi/pp.html",companion,False,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+View our Privacy Policy: https://dreamgf.zeezoo.mobi/pp.html",https://apps.apple.com/us/app/dreamgf-my-ai-friend/id6503708349?uo=4,companion,https://apps.apple.com/us/app/dreamgf-my-ai-friend/id6503708349?uo=4,In-App Purchases,EN,True,Apple,False,True,False,"Premium features, subscriptions, or IAPs"
